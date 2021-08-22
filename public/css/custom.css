@@ -1,0 +1,30 @@
+.top-img {
+    background-image: url("../images/top.jpg");
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.top-img-text{
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.top__title{
+    font-size: 32px;
+    color: #4a4a4a;
+    letter-spacing: 2px;
+    padding: 20px 0 40px;
+}
+
+.product-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 500px;
+    margin-top: 40px;
+}
